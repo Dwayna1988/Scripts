@@ -1,5 +1,5 @@
 //****************************************************************************
-// SPHERE by : Menasoft ©1997-2017
+// SPHERE by : Menasoft Â©1997-2017
 // www.sphereserver.net
 // All SPHERE script files and formats are copyright Menasoft & Partners.
 // This file may be freely edited for personal use, but may not be distributed
@@ -136,7 +136,7 @@ random_food            { random_bread 1 random_baked 1 random_cheese 1 random_so
 random_drink           { random_pitcher 1 random_glass 1 random_bottle 1 }
 
 random_bread           { i_bread_loaf 1 i_bread_french 1 i_bread_wonder 1 }
-random_baked           { i_cake 1 i_muffin 1 i_muffin_2 1 i_muffin_3 1 i_pan_cookies 1 i_plate_cookies 1 i_donuts 1 i_wafer 1 i_pie_baked 1 i_pizza 1 }
+random_baked           { i_cake 1 i_muffin 1 i_muffin_2 1 i_muffin_3 1 i_pan_cookies 1 i_plate_cookies 1 i_donuts 1 i_wafer 1 i_pizza 1 }
 random_cheese          { i_cheese_wheel 1 i_cheese_cut 1 i_cheese_wedge 1 }
 random_soup            { i_bowl_wood_carrots 1 i_bowl_wood_corn 1 i_bowl_wood_lettuce 1 i_bowl_wood_peas 1 i_bowl_pewter_carrots 1 i_bowl_pewter_corn 1 i_bowl_pewter_lettuce 1 i_bowl_pewter_peas 1 i_bowl_pewter_potatoes 1 i_bowl_tomato_soup 1 }
 random_other_food      { i_plate_food 1 i_eggs_fresh 1 i_eggs_fried 1 i_jar_honey 1 i_basket_fruit 1 i_wassabi_tray 1 i_bento_box 1 i_sushi_rolls 1 i_sushi_platter 1 i_soup_miso 1 i_soup_miso_2 1 i_bowl_fruit 1 }
